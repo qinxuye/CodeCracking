@@ -18,20 +18,20 @@ For each test case, output one line containing "Case #x: y", where x is the case
 
 ## Limits
 
-1 \leqslant T \leqslant 100.
-Each name will consist of only letters and the space character.
-Each name will contain at most 100 characters.
-No name with start or end with a space.
-No name will appear more than once in the same test case.
+1 <= T <= 100.  
+Each name will consist of only letters and the space character.  
+Each name will contain at most 100 characters.  
+No name with start or end with a space.  
+No name will appear more than once in the same test case.  
 Lexicographically, the space character comes first, then come the upper case letters, then the lower case letters.
 
 ## Small dataset
 
-1 \leqslant N \leqslant 10.
+1 <= N <= 10.
 
 ## Large dataset
 
-1 \leqslant N \leqslant 100.
+1 <= N <= 100.
 
 ## Sample
 
