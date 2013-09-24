@@ -30,15 +30,15 @@ Large dataset
 
 ### Input
  
-2
-1
-Dead_Bowie Fake_Thomas_Jefferson
-3
-Dead_Bowie Fake_Thomas_Jefferson
-Fake_Thomas_Jefferson Fury_Leika
-Fury_Leika Dead_Bowie
+2  
+1  
+Dead_Bowie Fake_Thomas_Jefferson  
+3  
+Dead_Bowie Fake_Thomas_Jefferson  
+Fake_Thomas_Jefferson Fury_Leika  
+Fury_Leika Dead_Bowie  
 
 ### Output
 
-Case #1: Yes
+Case #1: Yes  
 Case #2: No
