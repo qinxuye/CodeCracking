@@ -4,7 +4,7 @@ The Hamjet is a true marvel of aircraft engineering. It is a jet airplane with a
 
 Piloting the Hamjet is a not a job for your typical, meek-bodied superhero. That's why the Hamjet belongs to Captain Hammer, who is himself impervious to harm. The G-forces that the pilot endures when taking a trip in the Hamjet are legen-dary.
 
-The Hamjet takes off at an angle of ¦È degrees up and a speed of V meters per second. V is a fixed value that is determined by the awesome power of the Hamjet engine and the capacity of its fuel tank. The destination is D meters away. Your job is to program the Hamjet's computer to calculate ¦È given V and D.
+The Hamjet takes off at an angle of \theta degrees up and a speed of V meters per second. V is a fixed value that is determined by the awesome power of the Hamjet engine and the capacity of its fuel tank. The destination is D meters away. Your job is to program the Hamjet's computer to calculate \theta given V and D.
 
 Fortunately, the Hamjet's Wondeflonium hull is impervious to air friction. Even more fortunately, the Hamjet doesn't fly too far or too high, so you can assume that the Earth is flat, and that the acceleration due to gravity is a constant 9.8 m/s2 down.
 
@@ -14,15 +14,15 @@ The first line of the input gives the number of test cases, T. T lines follow. E
 
 ## Output
 
-For each test case, output one line containing "Case #x: ¦È", where x is the case number (starting from 1) and ¦È is in degrees up from the the horizontal. If there are several possible answers, output the smallest positive one.
+For each test case, output one line containing "Case #x: \theta", where x is the case number (starting from 1) and \theta is in degrees up from the the horizontal. If there are several possible answers, output the smallest positive one.
 
 An answer will be considered correct if it is within 10-6 of the exact answer, in absolute or relative error. See the FAQ for an explanation of what that means, and what formats of floating-point numbers we accept.
 
 ## Limits
 
-1 <= T <= 4500;
-1 <= V <= 300;
-1 <= D <= 10000;
+1 \leqslant T \leqslant 4500;
+1 \leqslant V \leqslant 300;
+1 \leqslant D \leqslant 10000;
 It is guaranteed that each test case will be solvable.
 
 ## Sample

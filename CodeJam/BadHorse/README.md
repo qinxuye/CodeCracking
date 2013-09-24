@@ -12,7 +12,7 @@ For each test case, output one line containing "Case #x: y", where x is the case
 
 ## Limits
 
-1 <= T <= 100.
+1 \leqslant T \leqslant 100.
 Each member name will consist of only letters and the underscore character.
 Names are case-sensitive.
 No pair will appear more than once in the same test case.
@@ -20,11 +20,11 @@ Each pair will contain two distinct League members.
 
 Small dataset
 
-1 <= M <= 10.
+1 \leqslant M \leqslant 10.
 
 Large dataset
 
-1 <= M <= 100.
+1 \leqslant M \leqslant 100.
 
 ## Sample
 
